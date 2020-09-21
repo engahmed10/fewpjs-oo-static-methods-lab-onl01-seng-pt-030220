@@ -17,7 +17,6 @@ class Formatter {
      {  return el.replace(el[0],el[0].toUpperCase())
      }else{ return el}
      }
-
    ).join(" ")
   }
 
